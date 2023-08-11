@@ -1,1 +1,4 @@
-![GitHub icon]([[[https://octodex.github.com/images/yaktocat.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw1EAfjNIK2sdmH_ucrpQgbb&ust=1691876530360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODAmK7J1YADFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw1EAfjNIK2sdmH_ucrpQgbb&ust=1691876530360000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODAmK7J1YADFQAAAAAdAAAAABAE](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910)https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F2RNK1P0BYVrSCZEy_Sd1Ew%252F3417757448_4a6bdf36ce_o.jpg&width=910))
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
